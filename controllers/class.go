@@ -1,3 +1,7 @@
 package controllers
 
-// will be updated in upcoming updates 
+import "github.com/gin-gonic/gin"
+
+func GetClass(c *gin.Context){
+	
+}
